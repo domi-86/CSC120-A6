@@ -1,4 +1,6 @@
 Use this file to record your reflection on this assignment.
 
 - What are your initial impressions of how `Inheritance` affects your programming?
+    I got confused about Constructors and if I had to use the super class's constructor with the subclass's constructor (and it's still a bit confusing to me). Understanding inheritance a little has made me see that it reduces the amount of coding you have to do. 
 - What worked, what didn't, what advice would you give someone taking this course in the future?
+    Java documentation is very helpful, definitely use it. I had to look at ArrayList documentation to see how to check if something is in an ArrayList, then I had to look at the Hashtable documentation too. I tried using a for loop to go through the Hashtable but got an error, so I looked up how to iterate through it and found forEach in the documentation. I didn't understand what was in the documentation about it, so I then looked up how to use it. Finally, at the end I went back through to try to do error handling--I initiallt tried doing an if else statement in Library for isAvailable(), but that threw an exception even when the book was in the collection, so I did a try catch instead and it worked how I wanted it to.
